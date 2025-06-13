@@ -5,7 +5,7 @@ Hop Surpriz est une application qui affiche des images de chiens aléatoires.
 
 ## Installation
 1.⁠ ⁠Cloner ce dépôt avec :  
-   ⁠ git clone https://github.com/Bibi266/Hop-surpriz.git
+   ⁠ git clone https://github.com/Bibi266/Hop-surprise.git
 2.⁠ ⁠Ouvrir le dossier dans VS Code.  
 3.⁠ ⁠Installer les dépendances (si tu as un ⁠ package.json ⁠) avec :  
    ⁠ npm install ⁠  
